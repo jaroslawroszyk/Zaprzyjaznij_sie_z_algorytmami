@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+*.sol
+
+# Other Vs Code mess
+.DS_Store
