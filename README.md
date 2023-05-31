@@ -6,5 +6,5 @@ The book "Make friends with Algorithms" published by pwn
 
 [Book](https://ksiegarnia.pwn.pl/Zaprzyjaznij-sie-z-algorytmami,256933944,p.html)
 
-Spis tresci
-[Some title here](Spis.pdf)
+### Table of contents
+[Contents](Spis.pdf)
