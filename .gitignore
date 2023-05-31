@@ -34,3 +34,4 @@
 
 # Other Vs Code mess
 .DS_Store
+.vscode/
